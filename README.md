@@ -1,2 +1,1 @@
-"# javaMTUCI" 
-//hentaihaven.red
+"# java
